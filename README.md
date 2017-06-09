@@ -33,7 +33,7 @@ Steps to setup the environment to run this project
     host: 'localhost',
     user: 'root',
     password : '',
-    port : 7616, //port mysql
+    port : 3306, //port mysql
     database:'arshad'	
 
 1. To run Search API :put This url to postman or Restclient " http://localhost:8082/licious/search " (I have used Postman).

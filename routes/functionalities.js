@@ -1,4 +1,4 @@
-var TAG = "----Funcionalities.js----"
+var TAG = "----functionalities.js----"
 // database connection
 var mysql = require('mysql');
 var connection = mysql.createPool({
